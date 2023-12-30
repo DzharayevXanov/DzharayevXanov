@@ -8,5 +8,5 @@
   https://
   https://
 
-Also you can watch our Programming totrials on YouTube [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@AsmrProg):
+Also you can watch our Programming totrials on YouTube https://github.com/AsmrProg-YT/AsmrProg-YT/raw/master/assets/youtube.svg:
 https://www.youtube.com/@J_Khan
